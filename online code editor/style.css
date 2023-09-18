@@ -1,0 +1,12 @@
+.container {
+  float: left;
+  margin-left: 100px;
+}
+.container2 {
+  float: right;
+  margin-right: 100px;
+  height: 100vh;
+}
+body {
+  background: red;
+}

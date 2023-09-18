@@ -1,0 +1,30 @@
+.container {
+  height: auto;
+  width: 500px;
+  border: 1px solid #ccc;
+  background: yellow;
+  font-size: 25px;
+  margin-left: 150px;
+  padding: 20px 300px 0 100px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+  height: auto;
+  width: auto;
+  background: #000;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+  margin: 10px;
+  border-radius: 11px;
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px;
+  margin-left: 200px;
+}
